@@ -65,6 +65,7 @@ export default {
         InputSearch,
         ContactList,
     },
+    // Đoạn mã xử lý đầy đủ sẽ trình bày bên dưới
     data() {
         return {
             contacts: [],
